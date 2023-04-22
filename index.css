@@ -168,6 +168,7 @@ body {
   font-weight: 400;
   font-size: 28px;
   line-height: 34px;
+  width: 100%;
 
   padding: 11px;
   color: #fcaf02;
@@ -187,6 +188,7 @@ body {
   margin-top: 20px;
   border: 2px solid #fcaf02;
   border-radius: 100px;
+  width: 100%;
 }
 
 /* Table */
